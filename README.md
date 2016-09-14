@@ -1,12 +1,14 @@
 
-[![GoogleAMP](https://www.ampproject.org/static/img/logo-blue.svg)](https://www.ampproject.org/)
+[![GoogleAMP](http://www.thedigitalnewsroom.com/wp-content/uploads/2016/07/Google-AMP-Logo.jpg)](https://www.ampproject.org/)
 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # An AMP-first WordPress theme for blogging that you can use for free
 
 "For many, reading on the mobile web is a slow, clunky and frustrating experience - but it doesn’t have to be that way. The Accelerated Mobile Pages (AMP) Project is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere."
 
-Follow [@jessethanley](https://twitter.com/jessethanley) for updates on this theme. Pull requests are checked and accepted quickly. 
+Follow [@jessethanley](https://twitter.com/jessethanley) for updates on this theme. Pull requests are checked and accepted quickly.
 
 ## Installation
 
