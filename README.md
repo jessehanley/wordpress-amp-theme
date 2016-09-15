@@ -4,9 +4,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# An AMP-first WordPress theme for blogging that you can use for free
+# An AMP-first, mobile responsive WordPress theme for blogging that you can use for free on your projects
 
 "For many, reading on the mobile web is a slow, clunky and frustrating experience - but it doesn’t have to be that way. The Accelerated Mobile Pages (AMP) Project is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere."
+
+There isn't any WordPress themes out there that are built with an AMP-first attitude so that's what we've done here. Download, use for free and just have fun with it. 
 
 Follow [@jessethanley](https://twitter.com/jessethanley) for updates on this theme. Pull requests are checked and accepted quickly.
 
@@ -18,9 +20,17 @@ Upload to your website as per normal.
 
 Done!
 
-## Usage
+## Automatic Updates via WP Pusher
 
-COMING SOON
+[![WPPusher](https://wppusher.com/images/wppusher-header-logo.png)](https://wppusher.com/)
+
+Sign up to WP Pusher.
+
+Go to "Install Themes".
+
+Add this repo and make sure you tick "Push-to-Deploy".
+
+Done!
 
 ## Contributing
 
