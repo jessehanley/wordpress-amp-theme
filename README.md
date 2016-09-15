@@ -1,5 +1,5 @@
 
-[![GoogleAMP](https://ps.w.org/accelerated-mobile-pages/assets/banner-1544x500.png?rev=1448639)](https://www.ampproject.org/)
+[![GoogleAMP](http://i.imgur.com/wX89Pfc.png)](https://www.ampproject.org/)
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
