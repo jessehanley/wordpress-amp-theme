@@ -1,5 +1,5 @@
 
-[![GoogleAMP](http://www.thedigitalnewsroom.com/wp-content/uploads/2016/07/Google-AMP-Logo.jpg)](https://www.ampproject.org/)
+[![GoogleAMP](https://ps.w.org/accelerated-mobile-pages/assets/banner-1544x500.png?rev=1448639)](https://www.ampproject.org/)
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,9 +8,11 @@
 
 "For many, reading on the mobile web is a slow, clunky and frustrating experience - but it doesn’t have to be that way. The Accelerated Mobile Pages (AMP) Project is an open source initiative that embodies the vision that publishers can create mobile optimized content once and have it load instantly everywhere."
 
-There isn't any WordPress themes out there that are built with an AMP-first attitude so that's what we've done here. Download, use for free and just have fun with it. 
+It's early days for AMP and as such there isn't any WordPress themes that use the technology by default. We've decided to give it a go and built a simple, elegant theme you can use for your blogging. Open source and available for anyone to contribute.
 
-Follow [@jessethanley](https://twitter.com/jessethanley) for updates on this theme. Pull requests are checked and accepted quickly.
+Download, use for free and just have fun with it. You can check out the demo over at [http://amp.jessehanley.com/](http://amp.jessehanley.com/) ⚡️
+
+Follow [@jessethanley](https://twitter.com/jessethanley) and direct message for any feature requests.
 
 ## Installation
 
@@ -26,11 +28,13 @@ Done!
 
 Sign up to WP Pusher.
 
-Go to "Install Themes".
+Install the plugin on your website.
+
+Go to "Install Themes" in the WP Pusher menu.
 
 Add this repo and make sure you tick "Push-to-Deploy".
 
-Done!
+Done! It'll now update automatically when we push our changes to GitHub, ensuring that you have the latest version running.
 
 ## Contributing
 
