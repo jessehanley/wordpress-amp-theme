@@ -4,11 +4,6 @@
 	<meta charset="utf-8">
 	<title><?php wp_title(); ?></title>
 	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-	<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.png" />
-	<link rel="apple-touch-icon" href="<?php echo get_stylesheet_directory_uri(); ?>/touch-icon-iphone.png" />
-	<link rel="apple-touch-icon" sizes="76x76" href="<?php echo get_stylesheet_directory_uri(); ?>/touch-icon-ipad.png" />
-	<link rel="apple-touch-icon" sizes="120x120" href="<?php echo get_stylesheet_directory_uri(); ?>/touch-icon-iphone-retina.png" />
-	<link rel="apple-touch-icon" sizes="152x152" href="<?php echo get_stylesheet_directory_uri(); ?>/touch-icon-ipad-retina.png" />
 	<?php get_template_part( 'style' ); ?>
 	<script async src="https://cdn.ampproject.org/v0.js"></script>
 </head>
@@ -54,5 +49,6 @@
   			</div>
   		</article>
   	</main>
+		<?php get_template_part( 'footer' ); ?>
   </body>
 </html>

@@ -46,7 +46,8 @@
   				</div>
   			</div>
   		</article>
-  	</main>
-		<?php get_template_part( 'footer' ); ?>
+  	<?php get_template_part( 'footer' ); ?>
+	</main>
+
   </body>
 </html>

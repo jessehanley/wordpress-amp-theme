@@ -142,4 +142,9 @@
     .home:hover {
       box-shadow: 0 0 11px rgba(33,33,33,0.5);
     }
+.footer {
+    opacity: 0.8;
+    padding-bottom: 3rem;
+    font-size: 80%;
+}
    	</style>
