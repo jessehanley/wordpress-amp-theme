@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title><?php wp_title(); ?></title>
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,minimal-ui">
+    <?php get_template_part( 'style' ); ?>
     <script async src="https://cdn.ampproject.org/v0.js"></script>
   </head>
   <body>
