@@ -48,7 +48,7 @@
   				</div>
   			</div>
   		</article>
+			<?php get_template_part( 'footer' ); ?>
   	</main>
-		<?php get_template_part( 'footer' ); ?>
   </body>
 </html>

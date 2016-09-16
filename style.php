@@ -1,4 +1,8 @@
 <style amp-custom>
+    amp-img {
+      background-color: grey;
+    }
+
     body {
    	width: 100%;
    	line-height: 1.6;
