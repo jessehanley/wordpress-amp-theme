@@ -1,7 +1,6 @@
 <style amp-custom>
     body {
    	width: 100%;
-   	min-width: 980px;
    	line-height: 1.6;
    	background: #f5efe6 !important;
    	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -65,8 +64,14 @@
    	}
    	.nav-list a {
    		color: #999;
-   		margin: 0 0 0 18px;
+   		margin: 0 0 0 0px;
    	}
+    .nav-list ul {
+          -webkit-padding-start: 0px;
+    }
+    .nav-list li {
+          margin-left: 0em;
+    }
    	@media (min-width: 26em) {
    	.nav {
    			float: right;
@@ -134,4 +139,7 @@
    		box-shadow: 0 3px 10px #CCC;
    		padding: 20px;
    	}
+    .home:hover {
+      box-shadow: 0 0 11px rgba(33,33,33,0.5);
+    }
    	</style>

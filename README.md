@@ -26,7 +26,7 @@ Done!
 
 [![WPPusher](https://wppusher.com/images/wppusher-header-logo.png)](https://wppusher.com/)
 
-Sign up to WP Pusher.
+Download [WP Pusher](https://wppusher.com).
 
 Install the plugin on your website.
 

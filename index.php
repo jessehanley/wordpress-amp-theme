@@ -38,8 +38,7 @@
       				<?php the_excerpt(); ?>
       				<div class="cta">
       					<a href="<?php the_permalink() ?>" style="color:#07C!important;text-decoration: underline;">
-      						<strong>Read article / <?php the_time('F jS, Y') ?></strong>
-      					</a>
+      						<strong>Read article</strong></a> / <span style="opacity:0.8"><?php the_time('F jS, Y') ?></span>
       				</div>
   	        </div>
   				</div>
@@ -59,5 +58,6 @@
   			</div>
   		</article>
   	</main>
+    <?php get_template_part( 'footer' ); ?>
   </body>
 </html>
